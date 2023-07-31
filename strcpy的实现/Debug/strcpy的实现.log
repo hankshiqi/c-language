@@ -1,0 +1,4 @@
+﻿  strcpy.c
+C:\Users\杨佩函\source\repos\strcpy的实现\strcpy的实现\strcpy.c(18,31): warning C4133: “函数”: 从“int [20]”到“char *”的类型不兼容
+C:\Users\杨佩函\source\repos\strcpy的实现\strcpy的实现\strcpy.c(19,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  strcpy的实现.vcxproj -> C:\Users\杨佩函\source\repos\strcpy的实现\Debug\strcpy的实现.exe

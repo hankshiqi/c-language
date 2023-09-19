@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Corc++ code\第几天\第几天\test.c(20): warning C4715: “count_day”: 不是所有的控件路径都返回值
+  第几天.vcxproj -> D:\Corc++ code\第几天\x64\Debug\第几天.exe
